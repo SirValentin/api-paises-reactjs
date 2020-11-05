@@ -2,7 +2,7 @@
   "name": "api-paises-reactjs",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://sirvalentin.github.io/api-paises-reactjs",
+  "homepage":"https://sirvalentin.github.io/api-paises-reactjs/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
