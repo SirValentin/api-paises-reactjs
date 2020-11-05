@@ -1,6 +1,5 @@
 .container{    
     padding-top: 30px;
-    height: 100vh;
     color: var(--texto);
     background-color: var(--background);
 }
