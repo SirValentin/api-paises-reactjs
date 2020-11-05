@@ -5,7 +5,7 @@ import Header from './components/Header'
 import Card from './components/Card'
 import Country from './components/Country'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
