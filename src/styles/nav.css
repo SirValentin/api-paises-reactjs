@@ -1,0 +1,19 @@
+.container-nav{
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);;
+    background-color: var(--elements);
+    color:var(--texto);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+    max-width: 1440px;
+    width: 90%;
+    margin: auto;    
+}
+.btn-darkMode{
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color: var(--background);
+}
