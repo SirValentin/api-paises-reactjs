@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/api-paises-reactjs/static/css/main.814b867b.chunk.css",
-    "main.js": "/api-paises-reactjs/static/js/main.9edc7213.chunk.js",
-    "main.js.map": "/api-paises-reactjs/static/js/main.9edc7213.chunk.js.map",
+    "main.js": "/api-paises-reactjs/static/js/main.49c42708.chunk.js",
+    "main.js.map": "/api-paises-reactjs/static/js/main.49c42708.chunk.js.map",
     "runtime-main.js": "/api-paises-reactjs/static/js/runtime-main.c89cd8cf.js",
     "runtime-main.js.map": "/api-paises-reactjs/static/js/runtime-main.c89cd8cf.js.map",
-    "static/js/2.966773da.chunk.js": "/api-paises-reactjs/static/js/2.966773da.chunk.js",
-    "static/js/2.966773da.chunk.js.map": "/api-paises-reactjs/static/js/2.966773da.chunk.js.map",
+    "static/js/2.41df3d37.chunk.js": "/api-paises-reactjs/static/js/2.41df3d37.chunk.js",
+    "static/js/2.41df3d37.chunk.js.map": "/api-paises-reactjs/static/js/2.41df3d37.chunk.js.map",
     "static/js/3.fa889243.chunk.js": "/api-paises-reactjs/static/js/3.fa889243.chunk.js",
     "static/js/3.fa889243.chunk.js.map": "/api-paises-reactjs/static/js/3.fa889243.chunk.js.map",
     "index.html": "/api-paises-reactjs/index.html",
     "static/css/main.814b867b.chunk.css.map": "/api-paises-reactjs/static/css/main.814b867b.chunk.css.map",
-    "static/js/2.966773da.chunk.js.LICENSE.txt": "/api-paises-reactjs/static/js/2.966773da.chunk.js.LICENSE.txt"
+    "static/js/2.41df3d37.chunk.js.LICENSE.txt": "/api-paises-reactjs/static/js/2.41df3d37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c89cd8cf.js",
-    "static/js/2.966773da.chunk.js",
+    "static/js/2.41df3d37.chunk.js",
     "static/css/main.814b867b.chunk.css",
-    "static/js/main.9edc7213.chunk.js"
+    "static/js/main.49c42708.chunk.js"
   ]
 }
